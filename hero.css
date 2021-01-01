@@ -1,0 +1,62 @@
+html, body{
+  font-family: Arial, sans-serif;
+
+}
+
+header{
+  background-color: #646CCB;
+  padding: 40px;
+
+}
+.content{
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+img.big-imagess{
+  max-width: 100%;
+}
+p.caption{
+  font-size: 16px;
+  color: lightgrey;
+  font-style: italic;
+}
+ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+a {
+  color: red;
+  text-decoration: none;
+
+}
+footer ul{
+  text-align: center;
+}
+footer{
+  padding: 40px 20px;
+  background-color: #E6E6E6;
+}
+footer ul li{
+  display: inline-block;
+  margin: 0 5px;
+}
+h1 {
+  font-size: 80px;
+  color: white;
+
+}
+header img{
+  border-radius: 170px;
+  width: 300px;
+  border: 20px solid #CC0000;
+}
+
+/*<header>
+ <img src="img/profile.jpg">
+ <h1>Wreck it Ralph</h1>
+
+</header>
+*/
